@@ -13,7 +13,7 @@
 - 🌍 Love creating open-source GenAI projects using:
   - `LangChain`, `LangGraph`, `LangSmith`
   - `Ollama`, `FAISS`, `Chroma`, `FastAPI`, `Streamlit`
-- 📚 Learning Deep Learning, Transformers, NLP, MLOps, Mastered All Machine Learning Algorithms and Toolformer-style architectures
+- 📚 Learning Deep Learning, Transformers, NLP, MLOps, Mastered All Machine Learning Algorithms and Transformer-style architectures
 
 ---
 
